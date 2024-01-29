@@ -29,4 +29,4 @@ The example shows how to load spliced/unspliced matrices from loom files prepare
 ### [Mouse BM / dropEst](http://pklab.med.harvard.edu/velocyto/notebooks/R/SCG71.nb.html)
 This example shows how to start analysis using dropEst count matrices, which can calculated from inDrop or 10x bam files using [dropEst pipeline](https://github.com/hms-dbmi/dropEst/). It then uses [pagoda2](https://github.com/hms-dbmi/pagoda2) to cluster/embed cells, and then visualize RNA velocity on that embedding.
 
-In case of infringement, please contact the author to delete.
+#In case of infringement, please contact the author to delete.
